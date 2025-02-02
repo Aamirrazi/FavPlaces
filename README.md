@@ -19,7 +19,7 @@ FavPlaces is a React Native application that allows users to save and manage the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FavPlaces.git
+   git clone https://github.com/Aamirrazi/FavPlaces.git
    ```
 2. Navigate to the project directory: cd FavPlaces
 3. Install dependencies:npm install
